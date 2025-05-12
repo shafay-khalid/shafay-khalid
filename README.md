@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Muhammad Shafay</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate full stack MERN developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shafay-khalid&label=Profile%20views&color=0e75b6&style=flat" alt="shafay-khalid" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently learning **Mongodb**
+- 🔭 I’m currently working on **React.js Next.js Tailwind CSS Framer Motion  Formik + Yup React Query or SWR Responsive design**
 
-- 🌱 I’m currently learning **JavaScript Type-Script React Firebase**
+- 🌱 I’m currently working on **Node.js+Express Next.js API routes MongoDB PostgreSQL+Prisma FireBase SupaBase JWT/Auth REST API or GraphQl**
 
 - 👯 I’m looking to collaborate on **Google Apple Microsoft**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **linkedin.com/in/shafay-khalid**
 
-- 📄 Know about my experiences [15 Years](15 Years)
+- 📄 Know about my experiences [5 Years](5 Years)
 
 - ⚡ Fun fact **Fighting**
 
